@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="199.095925 13 130.795281 120.209318 2 153.709904 85.754215 252.406855 76.3817526 387.369748 199.095925 335.081482 323.42796 387.369748 314.059932 252.406855 398 153.709904 270.765973 120.209318"></polygon>
+        <filter x="-0.8%" y="-0.8%" width="101.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2127.000000, -1318.000000)">
+            <g id="Shape_Star" transform="translate(2127.000000, 1318.000000)">
+                <rect id="矩形复制-2" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+                <g id="Shape_Star_Fill" opacity="0.600000024">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="2" d="M199.116085,14.8294999 L131.427454,121.07816 L3.79267809,154.27689 L86.780007,252.070133 L77.4925148,385.809459 L199.093372,333.995574 L322.317848,385.818052 L313.034108,252.069482 L396.208868,154.272383 L270.145109,121.079928 L199.116085,14.8294999 Z" stroke-linejoin="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

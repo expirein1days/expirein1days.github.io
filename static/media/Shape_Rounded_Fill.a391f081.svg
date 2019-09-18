@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_Rounded_Fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-4137.000000, -164.000000)">
+            <g id="Shape_Rounded_Fill" transform="translate(4137.000000, 164.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+                <path d="M112.88,2 L287.12,2 C348.357333,2 398,51.6426669 398,112.88 L398,287.12 C398,348.357333 348.357333,398 287.12,398 L112.88,398 C51.6426669,398 2,348.357333 2,287.12 L2,112.88 C2,51.6426669 51.6426669,2 112.88,2 Z" fill="#ABABAB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

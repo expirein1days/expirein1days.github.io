@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape_Heart_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Heart_normal">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="75" height="75"></rect>
+            <path d="M37,62.7730644 L37,25.328691 C37,21.024651 48.4005975,7.45877124 59.8283732,15.4970215 C71.256149,23.5352718 64.5391321,38.9128497 57.8917026,44.0058347 C51.244273,49.0988198 39.4933311,57.1207934 37,63 C34.5066689,57.1207934 22.755727,49.0988198 16.1082974,44.0058347 C9.46086789,38.9128497 2.74385102,23.5352718 14.1716268,15.4970215 C25.5994025,7.45877124 37,21.024651 37,25.328691 C37,29.632731 37,58.8283459 37,63 Z" id="Path-53" fill="#ABABAB"></path>
+        </g>
+    </g>
+</svg>

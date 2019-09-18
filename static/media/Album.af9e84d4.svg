@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Ic_Album</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Make-picture-popup" transform="translate(-16.000000, -545.000000)">
+            <g id="Popup">
+                <g id="List_2" transform="translate(0.000000, 529.000000)">
+                    <g id="Ic_Album" transform="translate(16.000000, 16.000000)">
+                        <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="24" height="24"></rect>
+                        <g id="Group-29" transform="translate(0.000000, 1.000000)">
+                            <rect id="Rectangle" stroke="#1B1B1B" stroke-width="2" x="6" y="7" width="17" height="13"></rect>
+                            <polygon id="Path-43" fill="#1B1B1B" points="11.157433 14.5082855 8.75737268 16.9421859 20.246313 16.9421859 18.6649945 12 17.093781 12.6409714 16.7645453 10 12.9107718 15.3274973"></polygon>
+                            <circle id="Oval" fill="#1B1B1B" cx="10.5" cy="11.5" r="1.5"></circle>
+                            <polygon id="Path-44" fill="#1B1B1B" fill-rule="nonzero" points="2.65125345 8.10523251 6.95353627 18.4960797 5.10566739 19.2611814 0.0305613074 7.00381617 17.1993163 0.0962969542 20.15586 6.52594858 18.3387615 7.36150413 16.1782136 2.6629196"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

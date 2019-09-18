@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="405px" viewBox="0 0 400 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_Rectangle_Fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Rectangle_Fill" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="400" height="400"></rect>
+            <polygon id="Shape_Rectangle" fill="#ABABAB" points="22 2 381 2 381 405 22 405"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_ZebraCrossing_3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M98.7714992,2 L146.589155,2 L2,147.548148 L2,98.9256282 L98.7714992,2 Z M54.0266093,2 L2,54.3716777 L2,2 L54.0266093,2 Z M191.799803,2 L239.151701,2 L2,240.724619 L2,192.102099 L191.799803,2 Z M284.828106,2 L332.12353,2 L2,334.313087 L2,285.278569 L284.828106,2 Z M398,306.910542 L307.30691,398 L254.164395,398 L398,253.935306 L398,306.910542 Z M398,347.223079 L398,398 L347.303824,398 L398,347.223079 Z M398,213.428655 L214.231802,398 L161.024966,398 L398,160.647533 L398,213.428655 Z M398,119.946767 L121.156694,398 L67.9225792,398 L398,67.3968612 L398,119.946767 Z M398,26.5666858 L28.1829488,398 L2,398 L2,374.144241 L375.493299,2 L398,2 L398,26.5666858 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-0.8%" width="101.5%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1533.000000, -4169.000000)">
+            <g id="Shape_ZebraCrossing_3" transform="translate(1533.000000, 4169.000000)">
+                <rect id="矩形复制-21" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+                <g id="Shape_ZebraCrossing_3_Fill" opacity="0.600000024">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="2" d="M99.1861789,3 L3,99.3393757 L3,145.122605 L144.186182,3 L99.1861789,3 Z M51.6236358,3 L3,3 L3,51.9461339 L51.6236358,3 Z M192.214482,3 L3,192.515846 L3,238.299075 L236.748728,3 L192.214482,3 Z M285.242786,3 L3,285.692317 L3,331.887543 L329.720557,3 L285.242786,3 Z M397,306.497605 L397,256.352239 L256.575894,397 L306.891419,397 L397,306.497605 Z M397,349.640012 L349.715323,397 L397,397 L397,349.640012 Z M397,213.015718 L397,163.064466 L163.436466,397 L213.816311,397 L397,213.015718 Z M397,119.533831 L397,69.8137941 L70.3340786,397 L120.741203,397 L397,119.533831 Z M397,26.1537489 L397,3 L375.906453,3 L3,374.559515 L3,397 L27.7674574,397 L397,26.1537489 Z" stroke-linejoin="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_QuarterCircle_2_Fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3609.000000, -3014.000000)">
+            <g id="Shape_QuarterCircle_2_Fill" transform="translate(3809.000000, 3214.000000) scale(-1, 1) translate(-3809.000000, -3214.000000) translate(3609.000000, 3014.000000)">
+                <rect id="矩形复制-16" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+                <path d="M2,2.01742081 C3.24390764,2.00581549 4.48919921,2 5.73584906,2 C222.377358,2 398,177.622642 398,394.264151 C398,395.510801 397.994185,396.756092 397.982579,398 L2,398 L2,2.01742081 Z" id="Shape_QuarterCircle_1_Fill" fill="#ABABAB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

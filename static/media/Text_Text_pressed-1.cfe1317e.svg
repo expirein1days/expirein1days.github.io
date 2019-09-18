@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="110px" viewBox="0 0 170 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Text_Text_Normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-XS&gt;JP" transform="translate(-193.000000, -292.000000)">
+            <g id="Content" transform="translate(12.000000, 88.000000)">
+                <g id="02_TEXT" transform="translate(181.000000, 0.000000)">
+                    <g id="Text_Text_Normal" transform="translate(0.000000, 204.000000)">
+                        <rect id="bg" fill="#FFFFFF" x="0" y="0" width="170" height="110"></rect>
+                        <g transform="translate(17.000000, 26.000000)" fill="#1B1B1B">
+                            <text id="好きなメッセージをタイプします" font-family="NotoSansCJKjp-Regular, Noto Sans CJK JP" font-size="9" font-weight="normal">
+                                <tspan x="0.59" y="39">好きなメッセージをタイプします</tspan>
+                            </text>
+                            <text id="TEXT" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold">
+                                <tspan x="46.4355" y="17">TEXT</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

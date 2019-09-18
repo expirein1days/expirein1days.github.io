@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape_Zebra crossing_2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Zebra-crossing_2">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="75" height="75"></rect>
+            <path d="M12,13 L63,13 L63,18 L12,18 L12,13 Z M12,22 L63,22 L63,27 L12,27 L12,22 Z M12,31 L63,31 L63,36 L12,36 L12,31 Z M12,40 L63,40 L63,45 L12,45 L12,40 Z M12,49 L63,49 L63,54 L12,54 L12,49 Z M12,58 L63,58 L63,63 L12,63 L12,58 Z" id="Rectangle-8" fill="#1B1B1B" transform="translate(37.500000, 38.000000) rotate(90.000000) translate(-37.500000, -38.000000) "></path>
+        </g>
+    </g>
+</svg>

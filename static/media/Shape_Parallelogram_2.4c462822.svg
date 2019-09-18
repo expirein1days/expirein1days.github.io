@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_Parallelogram_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M25.778598,201.716565 L373.778598,1.78 L373.778598,192.190518 L25.778598,392.78 L25.778598,201.716565 Z M27.778598,203.13165 L27.778598,389.78 L371.778598,190.781091 L371.778598,5.78 L27.778598,203.13165 Z" id="path-1"></path>
+        <filter x="-0.9%" y="-0.8%" width="101.7%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Parallelogram_2" fill-rule="nonzero">
+            <rect id="矩形复制-11" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+            <g id="形状结合" transform="translate(199.778598, 197.280000) scale(-1, 1) translate(-199.778598, -197.280000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.6" fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="44px" viewBox="0 0 50 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon/Warning</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Market" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M-14&gt;Market-Connect-Error" transform="translate(-163.000000, -151.000000)">
+            <g id="Icon/Warning" transform="translate(163.000000, 151.000000)">
+                <path d="M28.4863021,2.19787049 L48.6469122,38.038955 C49.7299674,39.9643866 49.0470865,42.4032469 47.121655,43.4863021 C46.5229285,43.8230858 45.8475575,44 45.1606101,44 L4.83938994,44 C2.63025094,44 0.839389938,42.209139 0.839389938,40 C0.839389938,39.3130526 1.01630409,38.6376816 1.35308779,38.038955 L21.5136979,2.19787049 C22.5967531,0.272438976 25.0356134,-0.410441928 26.961045,0.672613296 C27.5995429,1.0317684 28.127147,1.55937253 28.4863021,2.19787049 Z" id="Rectangle" fill="#1B1B1B"></path>
+                <path d="M22.5,33 L27.5,33 L27.5,38 L22.5,38 L22.5,33 Z M22.5,12 L27.5,12 L27.5,20.4034322 L26.6666667,30 L23.3333333,30 L22.5,20.4034322 L22.5,12 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

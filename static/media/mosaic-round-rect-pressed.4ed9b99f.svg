@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>round-rect-pressed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RoundRect_Pressed" transform="translate(-15.000000, -15.000000)" fill="#6A6A6A" fill-rule="nonzero">
+            <path d="M17,15 L22,15 C23.1045695,15 24,15.8954305 24,17 L24,22 C24,23.1045695 23.1045695,24 22,24 L17,24 C15.8954305,24 15,23.1045695 15,22 L15,17 C15,15.8954305 15.8954305,15 17,15 Z M28,15 L33,15 C34.1045695,15 35,15.8954305 35,17 L35,22 C35,23.1045695 34.1045695,24 33,24 L28,24 C26.8954305,24 26,23.1045695 26,22 L26,17 C26,15.8954305 26.8954305,15 28,15 Z M17,26 L22,26 C23.1045695,26 24,26.8954305 24,28 L24,33 C24,34.1045695 23.1045695,35 22,35 L17,35 C15.8954305,35 15,34.1045695 15,33 L15,28 C15,26.8954305 15.8954305,26 17,26 Z M28,26 L33,26 C34.1045695,26 35,26.8954305 35,28 L35,33 C35,34.1045695 34.1045695,35 33,35 L28,35 C26.8954305,35 26,34.1045695 26,33 L26,28 C26,26.8954305 26.8954305,26 28,26 Z" id="round-rect-pressed"></path>
+        </g>
+    </g>
+</svg>

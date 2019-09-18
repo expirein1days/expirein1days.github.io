@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Warning/Layers</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="C-25&gt;Authorization-Confirmation" transform="translate(-42.000000, -449.000000)">
+            <g id="Icon/Warning/Layers" transform="translate(42.000000, 449.000000)">
+                <circle id="Oval" stroke="#FF0000" stroke-width="4" cx="30" cy="30" r="28"></circle>
+                <path d="M21.6,32.4 L16.8,32.4 L16.8,16.8 L32.4,16.8 L32.4,21.6 L37.2,21.6 L37.2,27.6 L43.2,27.6 L43.2,43.2 L27.6,43.2 L27.6,37.2 L21.6,37.2 L21.6,32.4 Z M32.4,24 L32.4,32.4 L24,32.4 L24,34.8 L34.8,34.8 L34.8,24 L32.4,24 Z M37.2,30 L37.2,37.2 L30,37.2 L30,40.8 L40.8,40.8 L40.8,30 L37.2,30 Z M19.2,19.2 L19.2,30 L30,30 L30,19.2 L19.2,19.2 Z" id="Rectangle" fill="#1B1B1B" fill-rule="nonzero"></path>
+                <polygon id="Rectangle" fill="#FF0000" transform="translate(30.000000, 29.400000) rotate(-315.000000) translate(-30.000000, -29.400000) " points="27.6 1.2 32.4 1.2 32.4 57.6 27.6 57.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

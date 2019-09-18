@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape_Quarter circle_normal_1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Quarter-circle_normal_1">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="75" height="75"></rect>
+            <path d="M11,11.0023316 C11.1664826,11.0007783 11.3331504,11 11.5,11 C40.4949494,11 64,34.5050506 64,63.5 C64,63.6668496 63.9992217,63.8335174 63.9976684,64 L11,64 L11,11.0023316 Z" id="Oval-5" fill="#ABABAB"></path>
+        </g>
+    </g>
+</svg>

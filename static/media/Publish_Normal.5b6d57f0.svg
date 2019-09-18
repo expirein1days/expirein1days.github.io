@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Btn Icon/Publish_Normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Btn-Icon/Publish_Normal">
+            <g>
+                <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="34" height="34"></rect>
+                <path d="M25,20 L25,16 L31,21.5473659 L25,27 L25,23 L18,23 L18,20 L25,20 Z M23.458034,25 L23.458034,28.3943632 L8.71657098,28.3943632 L8.71657098,14 L5.27899772,14.2353829 L3.17596436,9.44520017 L13.041227,5.5015056 C13.0141119,5.66363529 13,5.83016964 13,6 C13,7.65685425 14.3431458,9 16,9 C17.6568542,9 19,7.65685425 19,6 C19,5.82534779 18.9850754,5.6541814 18.956432,5.48770663 L18.9638445,5.48770663 L28.7508161,9.44520017 L26.527514,14.2353829 L23.458034,14 L23.458034,18 L16,18 L16,25 L23.458034,25 Z" id="Path-109" fill="#1B1B1B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

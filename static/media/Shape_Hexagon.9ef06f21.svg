@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_Hexagon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,99.425723 L179.672943,0 L354.5,99.425723 L354.5,297.693707 L179.672943,396 L0,297.693707 L0,99.425723 Z M1.02308802,100.008716 L1.02308802,297.107467 L179.66604,394.85021 L353.476912,297.115325 L353.476912,100.000835 L179.665981,1.15299231 L1.02308802,100.008716 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-0.8%" width="101.7%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Hexagon" fill-rule="nonzero">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+            <g id="Shape_Hexagon_Fill" opacity="0.600000024" transform="translate(27.000000, 2.000000)">
+                <g id="path-1-link">
+                    <g id="形状结合">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.6" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

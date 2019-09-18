@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/NOPHOTO</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/NOPHOTO">
+            <g id="Group-5" transform="translate(17.000000, 20.000000)">
+                <path d="M6.18292683,7.35365854 L6.18292683,33.6219512 L40.6463415,33.6219512 L40.6463415,7.35365854 L6.18292683,7.35365854 Z" id="Rectangle" stroke="#666666" stroke-width="3" fill="#FFFFFF" transform="translate(23.414634, 20.487805) rotate(-21.000000) translate(-23.414634, -20.487805) "></path>
+                <rect id="Rectangle" stroke="#666666" stroke-width="3" fill="#FFFFFF" x="12.0365854" y="13.2073171" width="34.4634146" height="26.2682927"></rect>
+                <circle id="Oval" fill="#666666" cx="20.4878049" cy="21.6585366" r="2.92682927"></circle>
+                <polygon id="Path-42" fill="#666666" points="18.3297161 34.5034422 23.8070211 28.097561 27.5900044 31.3005016 34.3297918 20.8458935 36.4092273 24.9050634 38.8419316 23.839602 42.1463415 34.5034422"></polygon>
+            </g>
+            <path d="M21.2408711,70.4159831 C27.2149039,75.1637143 34.7762269,78 43,78 C62.3299662,78 78,62.3299662 78,43 C78,34.7762269 75.1637143,27.2149039 70.4159831,21.2408711 L21.2408711,70.4159831 Z M15.5840169,64.7591289 L64.7591289,15.5840169 C58.7850961,10.8362857 51.2237731,8 43,8 C23.6700338,8 8,23.6700338 8,43 C8,51.2237731 10.8362857,58.7850961 15.5840169,64.7591289 Z M43,86 C19.2517558,86 0,66.7482442 0,43 C0,19.2517558 19.2517558,0 43,0 C66.7482442,0 86,19.2517558 86,43 C86,66.7482442 66.7482442,86 43,86 Z" id="Oval-16" fill="#FF0000"></path>
+        </g>
+    </g>
+</svg>

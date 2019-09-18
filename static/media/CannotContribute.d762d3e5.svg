@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Cannot contribute</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Cannot-contribute">
+            <circle id="Oval" stroke="#CECECE" fill="#FFFFFF" cx="36" cy="36" r="35.5"></circle>
+            <g id="Group-48" transform="translate(21.000000, 21.000000)">
+                <path d="M21.9114098,-8.8817842e-16 L17.7281335,4 L4,4 L4,22 L22,22 L22,17.0876316 L26,13.3889549 L26,26 L0,26 L0,0 L21.9114098,0 Z" id="Rectangle" fill="#1B1B1B" fill-rule="nonzero"></path>
+                <polygon id="Path-104" fill="#1B1B1B" points="14.176116 12.3699833 17.8761017 16.0886089 29.617384 4.64734517 25.6239615 1.30444242"></polygon>
+                <polygon id="Path-103" stroke="#1B1B1B" points="25.6673228 1.07129888 14.0676982 12.4287135 11.8439924 18.8562248 17.7576038 16.3004114 29.617384 4.63386586"></polygon>
+                <circle id="Oval" stroke="#1B1B1B" stroke-width="3" fill="#FFFFFF" cx="24" cy="24" r="7"></circle>
+                <rect id="Rectangle" fill="#1B1B1B" transform="translate(24.000000, 24.000000) rotate(-315.000000) translate(-24.000000, -24.000000) " x="22.5" y="17" width="3" height="14"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_Heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M199.566975,370.092437 C182.501541,329.991342 102.728559,275.236569 57.3600998,240.507864 C11.9742015,205.76581 -33.8868103,100.866887 44.1373138,46.033558 C117.481627,-5.51092196 190.661971,73.1697787 199.176687,107.181358 C207.867772,73.1697787 282.518373,-5.51092196 355.862686,46.033558 C433.88681,100.866887 388.025799,205.76581 342.6399,240.507864 C297.27144,275.23657 214.412321,329.934958 199.566975,370.092437 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-0.9%" width="101.5%" height="101.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1549.000000, -1318.000000)">
+            <g id="Shape_Heart" transform="translate(1549.000000, 1318.000000)">
+                <rect id="矩形复制" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+                <g id="Shape_Heart_Fill" opacity="0.600000024">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="2" d="M199.509485,367.527105 C205.958543,352.300297 221.723844,334.450683 246.009293,313.413013 C256.925303,303.956839 269.343308,294.032454 284.202576,282.749932 C294.759335,274.73427 334.076152,245.803904 342.032062,239.713804 C366.02774,221.345562 387.595873,185.84217 394.548976,150.611316 C402.821697,108.69405 390.618921,71.6815862 355.287702,46.8517223 C322.602018,23.8810725 287.143411,25.2209141 253.792011,45.3797488 C227.486285,61.2799147 204.961121,88.5837611 200.145555,107.428936 L199.166749,111.259382 L198.206624,107.424211 C193.478001,88.5359788 171.363553,61.2563102 145.445668,45.3766172 C112.54863,25.2208499 77.3969243,23.8818155 44.7122984,46.8517223 C9.38107905,71.6815862 -2.82169695,108.69405 5.45102429,150.611316 C12.4041265,185.84217 33.9722599,221.345562 57.9679383,239.713804 C62.4501447,243.144849 102.233413,272.874864 114.827601,282.626325 C129.244473,293.789058 141.50926,303.771261 152.332598,313.275114 C176.299904,334.320542 192.282736,352.263937 199.509485,367.527105 Z" stroke-linejoin="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

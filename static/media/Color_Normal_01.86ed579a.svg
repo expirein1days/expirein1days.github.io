@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Btn/Color_Normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="C-20&gt;Brush-Colour-Selection" transform="translate(-16.000000, -601.000000)">
+            <g id="Content">
+                <g id="01_Popup">
+                    <g id="Btn/Color" transform="translate(16.000000, 601.000000)">
+                        <g id="Btn/Color_Normal">
+                            <g>
+                                <circle id="Oval-Copy" stroke="#DADADA" fill="#FFFFFF" cx="25" cy="25" r="24.5"></circle>
+                                <circle id="Oval" fill="#FE0101" cx="31" cy="19" r="5"></circle>
+                                <circle id="Oval" fill="#1A66FF" cx="19" cy="19" r="5"></circle>
+                                <circle id="Oval" fill="#FECB01" cx="31" cy="31" r="5"></circle>
+                                <circle id="Oval" fill="#323332" cx="19" cy="31" r="5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="170px" viewBox="0 0 170 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Btn/layout/Normal/01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Btn/layout/Normal/01">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="170" height="170"></rect>
+            <path d="M60,109 C46.745166,109 36,98.254834 36,85 C36,71.745166 46.745166,61 60,61 C73.254834,61 84,71.745166 84,85 C84,98.254834 73.254834,109 60,109 Z M111,109 C97.745166,109 87,98.254834 87,85 C87,71.745166 97.745166,61 111,61 C124.254834,61 135,71.745166 135,85 C135,98.254834 124.254834,109 111,109 Z" id="Oval-3" fill="#1B1B1B"></path>
+        </g>
+    </g>
+</svg>

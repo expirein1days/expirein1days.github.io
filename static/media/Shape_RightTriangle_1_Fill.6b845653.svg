@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_RightTriangle_1_Fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3042.000000, -2423.000000)">
+            <g id="Shape_RightTriangle_1_Fill" transform="translate(3042.000000, 2423.000000)">
+                <rect id="Rectangle" fill-opacity="0.01" fill="#D8D8D8" x="0" y="0" width="400" height="400"></rect>
+                <polygon fill="#ABABAB" points="3 2 3 398 397.343096 398"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

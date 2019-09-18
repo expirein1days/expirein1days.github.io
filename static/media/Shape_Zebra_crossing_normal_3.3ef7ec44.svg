@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape_Zebra crossing_normal_3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape_Zebra-crossing_normal_3">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="75" height="75"></rect>
+            <path d="M24.4629961,12 L30.6213306,12 L12,30.7448373 L12,24.4828461 L24.4629961,12 Z M18.7003966,12 L12,18.7448373 L12,12 L18.7003966,12 Z M36.443914,12 L42.5422646,12 L12,42.7448373 L12,36.4828461 L36.443914,12 Z M48.4248318,12 L54.5159092,12 L12,54.7978976 L12,48.4828461 L48.4248318,12 Z M63,51.2687819 L51.3198294,63 L44.4757175,63 L63,44.4462137 L63,51.2687819 Z M63,56.4605481 L63,63 L56.470947,63 L63,56.4605481 Z M63,39.2294479 L39.3328836,63 L32.4804881,63 L63,32.4318793 L63,39.2294479 Z M63,27.190114 L27.3459379,63 L20.4900291,63 L63,20.422323 L63,27.190114 Z M63,15.1638914 L15.3720464,63 L12,63 L12,59.9276674 L60.1014097,12 L63,12 L63,15.1638914 Z" id="Rectangle-9" fill="#ABABAB"></path>
+        </g>
+    </g>
+</svg>

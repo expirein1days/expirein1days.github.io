@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Shape_ZebraCrossing_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,6 L398,6 L398,44.7680672 L2,44.7680672 L2,6 Z M2,75.782521 L398,75.782521 L398,114.550588 L2,114.550588 L2,75.782521 Z M2,145.565042 L398,145.565042 L398,184.333109 L2,184.333109 L2,145.565042 Z M2,215.347563 L398,215.347563 L398,254.11563 L2,254.11563 L2,215.347563 Z M2,285.130084 L398,285.130084 L398,323.898151 L2,323.898151 L2,285.130084 Z M2,354.912605 L398,354.912605 L398,393.680672 L2,393.680672 L2,354.912605 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-0.8%" width="101.5%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-437.000000, -4164.000000)">
+            <g id="Shape_ZebraCrossing_1" transform="translate(437.000000, 4164.000000)">
+                <rect id="矩形复制-20" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="400" height="400"></rect>
+                <g id="Shape_ZebraCrossing_1_Fill" opacity="0.600000024">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="2" d="M3,7 L3,43.7680672 L397,43.7680672 L397,7 L3,7 Z M3,76.782521 L3,113.550588 L397,113.550588 L397,76.782521 L3,76.782521 Z M3,146.565042 L3,183.333109 L397,183.333109 L397,146.565042 L3,146.565042 Z M3,216.347563 L3,253.11563 L397,253.11563 L397,216.347563 L3,216.347563 Z M3,286.130084 L3,322.898151 L397,322.898151 L397,286.130084 L3,286.130084 Z M3,355.912605 L3,392.680672 L397,392.680672 L397,355.912605 L3,355.912605 Z" stroke-linejoin="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

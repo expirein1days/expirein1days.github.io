@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Btn/Return_Pressed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="C-07&gt;Resize" transform="translate(-68.000000, -22.000000)">
+            <g id="Btn" transform="translate(12.000000, 22.000000)">
+                <g id="Top-Btn">
+                    <g id="02_Btn/Return" transform="translate(56.000000, 0.000000)">
+                        <g id="Btn/Return_Pressed">
+                            <g>
+                                <circle id="Oval" stroke="#DADADA" fill="#FFFFFF" cx="20" cy="20" r="19.5"></circle>
+                                <path d="M18,25 L18,30 L11,23.592605 L18,17 L18,22 L23,22 C25.209139,22 27,20.209139 27,18 C27,15.790861 25.209139,14 23,14 L11,14 L11,11 L23,11 C26.8659932,11 30,14.1340068 30,18 C30,21.8659932 26.8659932,25 23,25 L18,25 Z" id="Rectangle" fill="#6A6A6A" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

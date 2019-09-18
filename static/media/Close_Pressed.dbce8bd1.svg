@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Close/Pressed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Close/Pressed">
+            <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <g id="Icon/Close/Normal" transform="translate(7.000000, 7.000000)" fill="#6A6A6A">
+                <polygon id="Fill-1" points="8.642 0 5.001 3.642 1.358 0 0 1.358 3.643 4.999 0 8.642 1.358 10 5.001 6.358 8.642 10 10 8.642 6.358 4.999 10 1.358"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

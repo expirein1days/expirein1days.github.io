@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Btn/Brush_Normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Make" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="C-21&gt;Brush-Selection" transform="translate(-163.000000, -601.000000)">
+            <g id="popup">
+                <g id="Btn/Brush" transform="translate(145.000000, 454.000000)">
+                    <g id="Btn/Brush_Normal" transform="translate(18.000000, 147.000000)">
+                        <circle id="Oval" stroke="#DADADA" fill="#FFFFFF" cx="25" cy="25" r="24.5"></circle>
+                        <g id="Icon/ThinBrush" transform="translate(13.000000, 13.000000)">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M10.2525382,13.0630434 L20.4570726,2.70001245 C20.8397269,2.31141486 21.4631812,2.3010828 21.8585017,2.67678758 L23.2644446,4.01296809 C23.6647747,4.39343393 23.6808779,5.02639411 23.300412,5.4267242 C23.2970492,5.4302626 23.2936605,5.43377632 23.2902462,5.43726509 L12.7184866,16.2396862 C12.6321044,19.0177187 9.87804279,21.3350616 6.60469872,21.3350616 C4.38736534,21.3350616 2.1857991,20.043757 0,17.4611479 C1.67871091,17.5152259 2.9449097,17.412927 3.79859634,17.1542514 C5.07912631,16.766238 6.38426838,13.6293629 8.13761255,13.1162138 C8.76450916,12.9327408 9.52899376,12.8998681 10.2525382,13.0630434 Z M11.2112131,13.4749179 L12.290935,14.7276263 L14.1312985,13.1091849 L12.9753913,11.881943 L11.2112131,13.4749179 Z" id="Path-95" fill="#6A6A6A"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

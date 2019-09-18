@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>rotate-normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rotate-normal" transform="translate(0.000000, -2.000000)">
+            <g>
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M3.89946564,7.84921311 L0.428932188,4.37867966 L9.90939212,3.95964465 L9.62132034,13.5710678 L6.23710135,10.1868488 C6.08245039,10.765142 6,11.3729423 6,12 C6,15.8659932 9.13400675,19 13,19 C16.8659932,19 20,15.8659932 20,12 C20,8.13400675 16.8659932,5 13,5 L13,2 C18.5228475,2 23,6.4771525 23,12 C23,17.5228475 18.5228475,22 13,22 C7.4771525,22 3,17.5228475 3,12 C3,10.5191792 3.32187021,9.11353526 3.89946564,7.84921311 Z" id="Oval" fill="#1B1B1B" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
